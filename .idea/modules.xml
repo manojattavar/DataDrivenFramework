@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/KMANOJ.iml" filepath="$PROJECT_DIR$/.idea/KMANOJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataDrivenFramework4.iml" filepath="$PROJECT_DIR$/.idea/DataDrivenFramework4.iml" />
     </modules>
   </component>
 </project>
